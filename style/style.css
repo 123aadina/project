@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  width: 100vw;
+  box-sizing: border-box;
+  position: relative;
+  padding-bottom: 50px;
+  min-height: 100vh;
+}
+.more {
+  display: none;
+}
+.card {
+  margin: auto;
+}
+
+.card-img-top {
+  height: 500px;
+}
+h1 {
+  text-align: center;
+}
+li {
+  display: inline;
+  padding: 20px;
+}
+
+p {
+  text-align: justify;
+}
+
+#praghraph {
+  margin: 10px;
+  padding: 20px;
+}
+
+/*  info page */
+
+.container {
+  min-height: 70vh;
+}
+
+#search {
+  padding-left: 0px;
+  padding: 20px;
+}
+#football {
+  width: 400px;
+  height: 40px;
+}
+
+#date {
+  width: 221px;
+  height: 40px;
+}
+
+#wrap {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.navbar-brand {
+  padding: 10px;
+}
+
+
